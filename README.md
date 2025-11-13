@@ -36,28 +36,18 @@
 
 ## Screenshots 📷
 
-<table>
+<<table>
   <tr>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/02ca044d-649a-41a3-87c9-f875969068ec" width="250"/></td>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/e8e9ac2c-58bb-49b1-b2f0-35cf7e96d3bd" width="250"/></td>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/870d2282-be3c-4eeb-bef5-605cb7648b65" width="250"/></td>
+    <td><img src="assets/screenshots/PHOTO-2025-05-04-02-23-53.jpg" width="250"/></td>
+    <td><img src="assets/screenshots/PHOTO-2025-05-04-02-24-49.jpg" width="250"/></td>
+    <td><img src="assets/screenshots/PHOTO-2025-05-04-02-26-15.jpg" width="250"/></td>
   </tr>
 
   <tr>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/83997f6c-8439-40a8-bafb-95a575e2ccc0" width="250"/></td>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/84b3258f-a278-432a-bf0b-0c4f5e525c85" width="250"/></td>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/2529c080-2e1f-4dfa-9dc1-7b0ae51abffd" width="250"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/f2d6e185-6bad-47ea-a19f-e74712e0c606" width="250"/></td>
+    <td><img src="assets/screenshots/PHOTO-2025-05-04-02-28-20.jpg" width="250"/></td>
+    <td><img src="assets/screenshots/PHOTO-2025-05-04-02-29-15.jpg" width="250"/></td>
+    <td><img src="assets/screenshots/PHOTO-2025-05-04-02-32-02.jpg" width="250"/></td>
   </tr>
 </table>
-
-
-
-
-
-
 
 
