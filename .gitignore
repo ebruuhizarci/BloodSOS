@@ -1,0 +1,9 @@
+node_modules/
+mobile/node_modules/
+flutter/build/
+build/
+dist/
+.DS_Store
+*.log
+
+
