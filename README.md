@@ -1,6 +1,5 @@
 # Blood sos App 🩸
 
-<img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/c722e9c6-68f6-4f0e-982d-c27a7dda3ab3" width="750" />
 
 ## Features 📲
 
@@ -50,4 +49,5 @@
     <td><img src="https://github.com/user-attachments/assets/50524e18-857e-48ce-8369-ff4293a0982f" width="250"/></td>
   </tr>
 </table>
+
 
